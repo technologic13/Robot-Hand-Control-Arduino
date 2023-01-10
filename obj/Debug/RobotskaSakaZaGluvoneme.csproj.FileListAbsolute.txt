@@ -1,0 +1,18 @@
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\bin\Debug\RobotskaSakaZaGluvoneme.exe.config
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\bin\Debug\RobotskaSakaZaGluvoneme.exe
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\bin\Debug\RobotskaSakaZaGluvoneme.pdb
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.Form1.resources
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.exe
+C:\Users\Aleksandar\source\repos\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.pdb
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\bin\Debug\RobotskaSakaZaGluvoneme.exe.config
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\bin\Debug\RobotskaSakaZaGluvoneme.exe
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\bin\Debug\RobotskaSakaZaGluvoneme.pdb
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.csprojAssemblyReference.cache
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.Form1.resources
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.Properties.Resources.resources
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.csproj.GenerateResource.cache
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.exe
+D:\Moja Dokumenta\Projekti za arduino\Robotska saka\RobotskaSakaZaGluvoneme\obj\Debug\RobotskaSakaZaGluvoneme.pdb
